@@ -12,7 +12,7 @@
  */
 
 Route::get('/', function () {
-    return view('filho');
+    return view('pagina');
 });
 
 Route::get('/primeiraview', function () {
